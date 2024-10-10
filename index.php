@@ -49,7 +49,7 @@ if(!empty($_SESSION['activa'])){
             </div>
             <div class="col" style="background-color: rgb(183,213,178);">
                 <div class="row">
-                    <h1>AUTENTIFICACIÓN</h1>
+                    <h1>AUTENTIFICACIÓN Luis Alberto Perez Vazquez</h1>
                 </div>
                 <form style="padding: 15px;" method="POST">
                     <div>
